@@ -1,0 +1,32 @@
+.nav-link {
+    font-size: 20px;
+}
+img{
+    margin-left: 10px;
+}
+.BG{
+    background-color: #100D69;
+    height: 662px;
+    width: 100%;
+}
+.jdl{
+    font-size: 60px;
+    color: aquamarine;
+}
+.jdlt{
+    padding-top: 90px;
+    font-size: 100px;
+    color: aquamarine
+}
+.btn{
+    height: 70px;
+    width: 200px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+footer p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: -20px;
+}
